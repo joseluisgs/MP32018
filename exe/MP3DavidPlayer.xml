@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\joseluisgs\Documents\NetBeansProjects\MP3DavidPlayer\exe\MP3DavidPlayer.jar</jar>
+  <outfile>C:\Users\joseluisgs\Documents\NetBeansProjects\MP3DavidPlayer\exe\MP3DavidPlayer.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\joseluisgs\Documents\NetBeansProjects\MP3DavidPlayer\exe\imagenes\icono.ico</icon>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.4.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.1.1</fileVersion>
+    <txtFileVersion>1.0.1.1</txtFileVersion>
+    <fileDescription>MP3 David Player</fileDescription>
+    <copyright>1º DAM</copyright>
+    <productVersion>1.0.1.1</productVersion>
+    <txtProductVersion>1.0.1.1</txtProductVersion>
+    <productName>MP3 David Player 1º DAM</productName>
+    <companyName>IFP Virgen de Gracia (Puertollano)</companyName>
+    <internalName>1º DAM</internalName>
+    <originalFilename>MP3DavidPlayer.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>CASTILIAN_SPANISH</language>
+  </versionInfo>
+</launch4jConfig>
